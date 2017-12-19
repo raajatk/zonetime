@@ -1,6 +1,6 @@
 {
   "name": "zonetime",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "The NPM module which will provide current time in different time zones.",
   "main": "index.js",
   "scripts": {

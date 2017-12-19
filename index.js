@@ -39,7 +39,7 @@ module.exports = function(regionAbbr, callback) {
       }
     }]
   },function(err, results){
-    if(results.getRegionalTimeOffset.currentTimeInTimeZone){
+    if(results.getRegionalTimeOffset.offset){
       var resObj = {
         region:results.getRegionalTimeOffset,
         currentTimeInTimeZone:results.getTimeInEnteredRegion.currentTimeInTimeZone,
