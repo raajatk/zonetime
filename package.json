@@ -1,6 +1,6 @@
 {
   "name": "zonetime",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "The NPM module which will provide current time in different time zones.",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,14 @@
     "timezone",
     "time",
     "zone",
-    "zonetime"
+    "zonetime",
+    "date",
+    "clock",
+    "wall-clock",
+    "utc",
+    "gmt",
+    "datetime",
+    "calendar"
   ],
   "author": "“Rajat <rajatkatiyar2009@gmail.com> (http://www.nodejscafe.com)",
   "license": "MIT",
